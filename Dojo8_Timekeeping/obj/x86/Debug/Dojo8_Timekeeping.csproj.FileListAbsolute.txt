@@ -1,0 +1,20 @@
+C:\Users\Lenovo\Documents\IT207\Dojo8_Timekeeping\Dojo8_Timekeeping\bin\Debug\Dojo8_Timekeeping.exe
+C:\Users\Lenovo\Documents\IT207\Dojo8_Timekeeping\Dojo8_Timekeeping\bin\Debug\Dojo8_Timekeeping.pdb
+C:\Users\Lenovo\Documents\IT207\Dojo8_Timekeeping\Dojo8_Timekeeping\obj\x86\Debug\Dojo8_Timekeeping.LoginForm.resources
+C:\Users\Lenovo\Documents\IT207\Dojo8_Timekeeping\Dojo8_Timekeeping\obj\x86\Debug\Dojo8_Timekeeping.MainForm.resources
+C:\Users\Lenovo\Documents\IT207\Dojo8_Timekeeping\Dojo8_Timekeeping\obj\x86\Debug\Dojo8_Timekeeping.Properties.Resources.resources
+C:\Users\Lenovo\Documents\IT207\Dojo8_Timekeeping\Dojo8_Timekeeping\obj\x86\Debug\Dojo8_Timekeeping.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Documents\IT207\Dojo8_Timekeeping\Dojo8_Timekeeping\obj\x86\Debug\Dojo8_Timekeeping.exe
+C:\Users\Lenovo\Documents\IT207\Dojo8_Timekeeping\Dojo8_Timekeeping\obj\x86\Debug\Dojo8_Timekeeping.pdb
+C:\Users\Lenovo\Documents\IT207\Dojo8_Timekeeping\Dojo8_Timekeeping\obj\x86\Debug\Dojo8_Timekeeping.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Documents\IT207\Dojo8_Timekeeping\Dojo8_Timekeeping\obj\x86\Debug\Dojo8_Timekeeping.CustomersForm.resources
+C:\Users\Lenovo\Documents\IT207\Dojo8_Timekeeping\Dojo8_Timekeeping\obj\x86\Debug\Dojo8_Timekeeping.PackagePromoForm.resources
+C:\Users\Lenovo\Documents\IT207\Dojo8_Timekeeping\Dojo8_Timekeeping\obj\x86\Debug\Dojo8_Timekeeping.AddCustomer.resources
+C:\Users\Lenovo\Documents\IT207\Dojo8_Timekeeping\Dojo8_Timekeeping\obj\x86\Debug\Dojo8_Timekeeping.AddPackagePromo.resources
+C:\Users\Lenovo\Documents\IT207\Dojo8_Timekeeping\Dojo8_Timekeeping\obj\x86\Debug\Dojo8_Timekeeping.AddHours.resources
+C:\Users\Lenovo\Documents\IT207\Dojo8_Timekeeping\Dojo8_Timekeeping\obj\x86\Debug\Dojo8_Timekeeping.TimeInCustomer.resources
+C:\Users\Lenovo\Documents\IT207\Dojo8_Timekeeping\Dojo8_Timekeeping\obj\x86\Debug\Dojo8_Timekeeping.LogbookForm.resources
+C:\Users\Lenovo\Documents\IT207\Dojo8_Timekeeping\Dojo8_Timekeeping\obj\x86\Debug\Dojo8_Timekeeping.ManageStaff.resources
+C:\Users\Lenovo\Documents\IT207\Dojo8_Timekeeping\Dojo8_Timekeeping\obj\x86\Debug\Dojo8_Timekeeping.AddStaff.resources
+F:\Documents\AY 16-17\1ST SEM\IT207\Dojo8_Timekeeping\Dojo8_Timekeeping\obj\x86\Debug\Dojo8_Timekeeping.exe
+F:\Documents\AY 16-17\1ST SEM\IT207\Dojo8_Timekeeping\Dojo8_Timekeeping\obj\x86\Debug\Dojo8_Timekeeping.pdb
